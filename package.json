@@ -1,0 +1,22 @@
+{
+  "name": "nz.alle.rsvep",
+  "displayName": "Revert ScriptableObject Values when Exit Playmode",
+  "description": "Add a toggle on inspector of scriptable asset to keep its values when into playmode in Unity editor, and revert its values when exit playmode.",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allenz8512/rsvep.git"
+  },
+  "author": {
+    "name": "Allenz",
+    "email": "allenz8512@gmail.com",
+    "url": "https://github.com/allenz8512/"
+  },
+  "keywords": [
+    "Editor",
+    "ScriptableObject"
+  ],
+  "dependencies": {}
+}
